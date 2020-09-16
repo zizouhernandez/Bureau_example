@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        System.Console.WriteLine(@"Du öppnar din sönderörfilade byrå
+        och funderar på om du ska örfila den igen");
         string contents = "";
 
         System.Console.WriteLine("Öppnar byrålådan...");
