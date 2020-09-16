@@ -24,6 +24,7 @@ class Program
             {
                 System.Console.WriteLine("Tömmer byrån på " + contents);
                 contents = "";
+                System.Console.WriteLine("Din lilla strumptjuv");
             }
             else
             {
